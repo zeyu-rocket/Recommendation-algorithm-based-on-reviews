@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/zeyu-rocket/Recommendation-algorithm-based-on-reviews
+Author: entbappy
+Author-email: entbappy73@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Recommendation-algorithm-based-on-reviews
+基于社交评论分析的个性化推荐算法
+
+

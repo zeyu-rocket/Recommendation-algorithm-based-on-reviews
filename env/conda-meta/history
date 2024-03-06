@@ -1,0 +1,39 @@
+==> 2024-03-06 10:48:15 <==
+# cmd: /Users/zeyu/opt/anaconda3/bin/conda create --prefix ./env python==3.7 -y
+# conda version: 22.9.0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::ca-certificates-2023.12.12-hecd8cb5_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::certifi-2022.12.7-py37hecd8cb5_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::libcxx-14.0.6-h9765a3e_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::libedit-3.1.20230828-h6c40b1e_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::libffi-3.2.1-h0a44026_1007
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::ncurses-6.4-hcec6c5f_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::openssl-1.0.2u-h1de35cc_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::pip-22.3.1-py37hecd8cb5_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::python-3.7.0-hc167b69_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::readline-7.0-h1de35cc_5
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::setuptools-65.6.3-py37hecd8cb5_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::sqlite-3.33.0-hffcf06c_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::tk-8.6.12-h5d9f67b_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::wheel-0.38.4-py37hecd8cb5_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::xz-5.4.6-h6c40b1e_0
++https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::zlib-1.2.13-h4dc903c_0
+# update specs: ['python==3.7']
+==> 2024-03-06 15:01:16 <==
+# cmd: /Users/zeyu/opt/anaconda3/bin/conda install -c conda-forge numpy
+# conda version: 22.9.0
+-https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::ca-certificates-2023.12.12-hecd8cb5_0
+-https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::certifi-2022.12.7-py37hecd8cb5_0
+-https://mirrors.ustc.edu.cn/anaconda/pkgs/main/osx-64::openssl-1.0.2u-h1de35cc_0
++conda-forge/noarch::certifi-2024.2.2-pyhd8ed1ab_0
++conda-forge/osx-64::ca-certificates-2024.2.2-h8857fd0_0
++conda-forge/osx-64::libblas-3.9.0-21_osx64_openblas
++conda-forge/osx-64::libcblas-3.9.0-21_osx64_openblas
++conda-forge/osx-64::libgfortran-5.0.0-13_2_0_h97931a8_3
++conda-forge/osx-64::libgfortran5-13.2.0-h2873a65_3
++conda-forge/osx-64::liblapack-3.9.0-21_osx64_openblas
++conda-forge/osx-64::libopenblas-0.3.26-openmp_hfef2a42_0
++conda-forge/osx-64::llvm-openmp-17.0.6-hb6ac08f_0
++conda-forge/osx-64::numpy-1.21.6-py37h345d48f_0
++conda-forge/osx-64::openssl-1.0.2u-h0b31af3_0
++conda-forge/osx-64::python_abi-3.7-2_cp37m
+# update specs: ['numpy']
