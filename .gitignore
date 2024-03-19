@@ -1,1 +1,8 @@
 .DS_Store
+
+merged_file.csv
+pivot_use.csv
+
+pytorch_model.bin
+tf_model.h5
+flax_model.msgpack
